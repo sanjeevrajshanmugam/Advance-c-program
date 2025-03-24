@@ -1,5 +1,3 @@
-# Advance-c-program stack
-
 ```
 #include <stdio.h>
 #include <string.h>
