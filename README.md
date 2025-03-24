@@ -1,4 +1,10 @@
-```
+# Develop a Stack implementation (Push, Pop, Peek, IsEmpty, IsFull -> Functions)  using an Array in C language for the following data
+
+# i)Student Number
+# ii)Name of the Student
+# iii)Student Department
+
+ ```
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
